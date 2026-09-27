@@ -1,0 +1,11 @@
+D:\Prac\TaskRunner\TaskRunner\bin\Debug\net8.0\TaskRunner.deps.json
+D:\Prac\TaskRunner\TaskRunner\bin\Debug\net8.0\TaskRunner.dll
+D:\Prac\TaskRunner\TaskRunner\bin\Debug\net8.0\TaskRunner.pdb
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\TaskRunner.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\TaskRunner.AssemblyInfoInputs.cache
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\TaskRunner.AssemblyInfo.cs
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\TaskRunner.csproj.CoreCompileInputs.cache
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\TaskRunner.dll
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\refint\TaskRunner.dll
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\TaskRunner.pdb
+D:\Prac\TaskRunner\TaskRunner\obj\Debug\net8.0\ref\TaskRunner.dll
